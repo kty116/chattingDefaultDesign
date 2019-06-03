@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="tiny_margin">5dp</dimen>
+    <dimen name="small_margin">10dp</dimen>
+    <dimen name="medium_margin">15dp</dimen>
+    <dimen name="large_margin">20dp</dimen>
+    <dimen name="xlarge_margin">30dp</dimen>
+    <dimen name="xxlarge_margin">40dp</dimen>
+    <dimen name="xxxlarge_margin">60dp</dimen>
+    <dimen name="xxxxxlarge_margin">100dp</dimen>
+    <dimen name="xxxxxxlarge_margin">120dp</dimen>
+
+    <dimen name="tiny_text">14dp</dimen>
+    <dimen name="small_text">17dp</dimen>
+    <dimen name="medium_text">19dp</dimen>
+    <dimen name="large_text">22dp</dimen>
+    <dimen name="xlarge_text">27dp</dimen>
+
+    <dimen name="social_login_image">50dp</dimen>
+
+
+</resources>

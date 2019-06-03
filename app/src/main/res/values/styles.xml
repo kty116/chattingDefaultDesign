@@ -1,0 +1,102 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="xlargeTextBlack">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/xlarge_text</item>
+    </style>
+
+    <style name="xlargeTextWhite">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/xlarge_text</item>
+    </style>
+
+
+    <style name="xlargeTextGray">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_light_gray</item>
+        <item name="android:textSize">@dimen/xlarge_text</item>
+    </style>
+
+    <style name="largeTextBlack">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/large_text</item>
+    </style>
+
+    <style name="largeTextWhite">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/large_text</item>
+    </style>
+
+    <style name="largeTextGray">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_light_gray</item>
+        <item name="android:textSize">@dimen/large_text</item>
+    </style>
+
+    <style name="mediumTextBlack">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+    </style>
+
+    <style name="mediumTextWhite">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+    </style>
+
+    <style name="mediumTextGray">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_light_gray</item>
+        <item name="android:textSize">@dimen/medium_text</item>
+    </style>
+
+    <style name="smallTextBlack">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <style name="smallTextWhite">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <style name="smallTextGray">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_light_gray</item>
+        <item name="android:textSize">@dimen/small_text</item>
+    </style>
+
+    <style name="tinyTextBlack">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_black</item>
+        <item name="android:textSize">@dimen/tiny_text</item>
+    </style>
+
+    <style name="tinyTextWhite">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/tiny_text</item>
+    </style>
+
+    <style name="tinyTextGray">
+        <item name="android:background">@color/transparency</item>
+        <item name="android:textColor">@color/text_light_gray</item>
+        <item name="android:textSize">@dimen/tiny_text</item>
+    </style>
+
+</resources>
